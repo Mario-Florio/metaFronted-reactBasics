@@ -62,8 +62,8 @@ function Calculator() {
             <button onClick={times}>times</button>
             <button onClick={divide}>divide</button>
             <br/>
-            <button onClick={resetInput}>reset input</button>
-            <button onClick={resetResult}>reset result</button>
+            <button className="reset" onClick={resetInput}>reset input</button>
+            <button className="reset" onClick={resetResult}>reset result</button>
         </form>
     );
 }
