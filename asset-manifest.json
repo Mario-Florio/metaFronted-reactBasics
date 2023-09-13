@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/metaFrontend-reactBasics/static/css/main.6b1a18f9.css",
+    "main.js": "/metaFrontend-reactBasics/static/js/main.ee2f640f.js",
+    "index.html": "/metaFrontend-reactBasics/index.html",
+    "main.6b1a18f9.css.map": "/metaFrontend-reactBasics/static/css/main.6b1a18f9.css.map",
+    "main.ee2f640f.js.map": "/metaFrontend-reactBasics/static/js/main.ee2f640f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b1a18f9.css",
+    "static/js/main.ee2f640f.js"
+  ]
+}
